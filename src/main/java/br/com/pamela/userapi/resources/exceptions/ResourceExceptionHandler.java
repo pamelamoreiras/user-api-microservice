@@ -1,5 +1,6 @@
-package br.com.pamela.userapi.services.exceptions;
+package br.com.pamela.userapi.resources.exceptions;
 
+import br.com.pamela.userapi.services.exceptions.ObjectNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

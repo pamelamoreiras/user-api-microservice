@@ -1,4 +1,4 @@
-package br.com.pamela.userapi.services.exceptions;
+package br.com.pamela.userapi.resources.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
